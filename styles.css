@@ -23,7 +23,7 @@ body {
 }
 
 .header{
-    background-image: url("images/torshov.jpg");
+    background-image: url("./torshov.jpg");
     background-size: cover;
     color: #FFF;
     padding: 50px 30px 140px 30px;
